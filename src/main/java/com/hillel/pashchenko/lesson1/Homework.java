@@ -81,5 +81,6 @@ public class Homework {
             array[k] = k;
         }
         System.out.println(Arrays.toString(array));
+        System.out.println();
     }
 }
